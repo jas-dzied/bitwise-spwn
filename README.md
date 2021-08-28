@@ -26,3 +26,4 @@ Output:
 100101
 101001
 ```
+All the bitwise operations work with the size of the string provided. E.g. `lshift("10")` will give `00` while `lshift("010")` will give `100`
